@@ -67,15 +67,14 @@ I'm a backend developer focused on building real-world systems with **Java** and
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-| Project | What it does | Stack |
-|---------|-------------|-------|
-| [**smart-ordering-management-system**](https://github.com/rishit1711/smart-ordering-management-system) | Full backend for an ordering platform — auth, product management, order flow via REST APIs | Spring Boot, Spring Security, MySQL |
-| [**airbnb-backend**](https://github.com/rishit1711/airBnb---Backend) | Core booking system backend inspired by Airbnb — listings, reservations, user management | Java, Spring Boot |
-| [**RateLimiterProject**](https://github.com/rishit1711/RateLimiterProject) | Custom rate limiter built from scratch exploring token bucket & sliding window algorithms | Java, Spring Boot, Redis |
+| Project                                                                             | What it does                                                                                                                                                              | Stack                                     |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| [**Airbnb Backend Clone**](https://github.com/rishit1711/airBnb---Backend)          | Scalable booking platform backend featuring property listings, reservations, authentication, and user management through RESTful APIs and layered architecture.           | Java, Spring Boot, Spring Security, MySQL |
+| [**Distributed Rate Limiter**](https://github.com/rishit1711/RateLimiterProject)    | Built a custom rate-limiting service from scratch implementing Token Bucket and Fixed Window algorithms with Redis for distributed request tracking and API protection. | Java, Spring Boot, Redis, Docker          |
+| [**OrderFlow API**](https://github.com/rishit1711/smart-ordering-management-system) | Backend service for managing products, customers, and order processing with secure authentication, CRUD operations, and database-driven business workflows.               | Spring Boot, Spring Security, MySQL       |
 
----
 
 ### 🎯 Currently focused on
 

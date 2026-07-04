@@ -73,6 +73,7 @@ I'm a backend developer who builds real-world systems with **Java** and **Spring
 | [**Airbnb Backend Clone**](https://github.com/rishit1711/airBnb---Backend) | Scalable booking platform backend with property listings, reservations, authentication, and user management, built around RESTful APIs and a layered architecture. | Java, Spring Boot, Spring Security, MySQL |
 | [**Distributed Rate Limiter**](https://github.com/rishit1711/RateLimiterProject) | Custom rate-limiting service built from scratch, implementing Token Bucket and Fixed Window algorithms with Redis for distributed request tracking and API protection. | Java, Spring Boot, Redis, Docker |
 | [**OrderFlow API**](https://github.com/rishit1711/smart-ordering-management-system) | Backend service for managing products, customers, and order processing, with secure authentication, full CRUD operations, and database-driven workflows. | Spring Boot, Spring Security, MySQL |
+| [**AI Workspace Platform**](https://github.com/rishit1711/ai-workspace-platform) 🚧 *In Development* | A vibe-coding platform that lets users generate frontend UIs simply by describing them in a prompt. | Java, Spring Boot |
 
 ---
 

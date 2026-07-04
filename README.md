@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Rishit+Roy;Backend+Developer+%7C+Java+%26+Spring+Boot;Building+Scalable%2C+Production-Ready+APIs" alt="Typing SVG" />
 
-<p><em>Backend Developer · India 🇮🇳 · Java · Spring Boot · System Design</em></p>
+<p><em>Backend Developer specializing in Java & Spring Boot · Focused on scalable APIs and system design</em></p>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/codeowl_1711/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishit-roy-383b04314/)
@@ -14,12 +14,12 @@
 
 ### About Me
 
-I'm a backend developer who builds real-world systems with **Java** and **Spring Boot**. I like understanding how things work under the hood — from designing clean REST APIs to implementing rate limiters and booking platforms from scratch.
+I'm a backend developer focused on building reliable, production-ready systems with **Java** and **Spring Boot**. My work centers on designing clean REST APIs and understanding systems at a deeper level — from implementing distributed rate limiters to building full-fledged booking platforms from the ground up.
 
-- 🔭 **Currently building:** production-grade backends with Spring Boot & Spring Security
-- 🧠 **Currently learning:** System Design, DSA, and the broader Spring ecosystem
-- 💡 **Interested in:** distributed systems, API design, and clean architecture
-- 📍 **Based in:** India
+- 🔭 **Currently building:** Production-grade backend systems using Spring Boot and Spring Security
+- 🧠 **Currently learning:** System design fundamentals, data structures & algorithms, and the broader Spring ecosystem
+- 💡 **Areas of interest:** Distributed systems, API design, and clean, maintainable architecture
+- 📍 **Location:** India
 
 ---
 
@@ -35,7 +35,9 @@ I'm a backend developer who builds real-world systems with **Java** and **Spring
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Swagger/OpenAPI](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 **Databases & Tools**
 
@@ -80,9 +82,9 @@ I'm a backend developer who builds real-world systems with **Java** and **Spring
 ### Currently Focused On
 
 ```text
-✔  Daily DSA practice on LeetCode
-✔  System design fundamentals — caching, sharding, load balancing
-✔  Making projects production-ready — logging, error handling, deployment
+✔  Solving DSA problems daily on LeetCode
+✔  Strengthening system design fundamentals — caching, sharding, load balancing
+✔  Hardening projects for production — logging, error handling, and deployment
 ```
 
 ---
@@ -96,5 +98,5 @@ I'm a backend developer who builds real-world systems with **Java** and **Spring
 ---
 
 <div align="center">
-  <sub>Always open to learning, collaborating, and building things that work well at scale.</sub>
+  <sub>Open to backend engineering opportunities — always learning, building, and refining systems that scale.</sub>
 </div>

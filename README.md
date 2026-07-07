@@ -38,16 +38,20 @@
 ### Frameworks & Libraries
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
-### Databases
+### Databases & Caching
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
 ### Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -70,10 +74,29 @@ Scalable backend replicating Airbnb's core booking engine — inventory manageme
 </td>
 <td width="50%">
 
-### 🛒 [Smart Ordering & Management System](https://github.com/rishit1711/smart-ordering-management-system)
-Secure REST API backend for online ordering — handles auth, product catalog, and order processing with a clean layered architecture.
+### 🚦 [Redis-Powered Rate Limiter](https://github.com/rishit1711/RateLimiterProject)
+A production-inspired rate limiter protecting APIs from traffic spikes and abuse — implements both **Fixed Window** and **Token Bucket** algorithms with Redis atomic counters and TTL-based expiration.
 
-`Java` `Spring Boot` `Spring Security` `JWT` `REST APIs`
+`Java` `Spring Boot` `Redis` `Docker` `System Design`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🧪 Currently Building
+
+<table>
+<tr>
+<td width="100%">
+
+### ✨ [AI Workspace Platform](https://github.com/rishit1711/ai-workspace-platform) `🚧 In Development`
+A prompt-to-frontend generation platform (Lovable-style) — users describe what they want in plain language, and the platform generates a working **React** frontend for them. Powered by **Spring AI** on the backend to orchestrate LLM-driven code generation.
+
+`Java` `Spring Boot` `Spring AI` `React` `LLM Integration`
+
+> 🔨 Actively in progress — architecture and core generation pipeline underway.
 
 </td>
 </tr>

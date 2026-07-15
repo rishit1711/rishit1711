@@ -89,7 +89,7 @@ A production-inspired rate limiter protecting APIs from traffic spikes and abuse
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### ✨ [AI Workspace Platform](https://github.com/rishit1711/ai-workspace-platform) `🚧 In Development`
 A prompt-to-frontend generation platform (Lovable-style) — users describe what they want in plain language, and the platform generates a working **React** frontend for them. Powered by **Spring AI** on the backend to orchestrate LLM-driven code generation.
@@ -97,6 +97,16 @@ A prompt-to-frontend generation platform (Lovable-style) — users describe what
 `Java` `Spring Boot` `Spring AI` `React` `LLM Integration`
 
 > 🔨 Actively in progress — architecture and core generation pipeline underway.
+
+</td>
+<td width="50%">
+
+### 🎯 [PrepPilot AI](https://github.com/rishit1711/PrepPilotAI) `🚧 In Development`
+An adaptive AI interview intelligence platform that simulates realistic technical interviews — analyzing resumes and job descriptions via RAG, verifying resume claims, and delivering evidence-based, explainable feedback with a personalized learning roadmap.
+
+`Spring Boot` `Spring Security` `Spring AI / LangChain4j` `PostgreSQL` `Qdrant` `Gemini API`
+
+> 🔨 Actively in progress — building out the adaptive interview engine and knowledge vault.
 
 </td>
 </tr>

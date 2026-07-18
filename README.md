@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%20There,%20I'm%20Rishit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20DSA&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Secure%2C+Scalable+Systems;Always+Learning%2C+Always+Improving" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Secure%2C+Scalable+Systems;Currently+Building+AI-Powered+Platforms" alt="Typing SVG" />
 
 </div>
 
@@ -41,7 +41,6 @@
 <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 ### Databases & Caching
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -89,7 +88,7 @@ A production-inspired rate limiter protecting APIs from traffic spikes and abuse
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%">
 
 ### ✨ [AI Workspace Platform](https://github.com/rishit1711/ai-workspace-platform) `🚧 In Development`
 A prompt-to-frontend generation platform (Lovable-style) — users describe what they want in plain language, and the platform generates a working **React** frontend for them. Powered by **Spring AI** on the backend to orchestrate LLM-driven code generation.
@@ -97,6 +96,16 @@ A prompt-to-frontend generation platform (Lovable-style) — users describe what
 `Java` `Spring Boot` `Spring AI` `React` `LLM Integration`
 
 > 🔨 Actively in progress — architecture and core generation pipeline underway.
+
+</td>
+<td width="50%">
+
+### 🎯 [PrepPilot AI](https://github.com/rishit1711/PrepPilotAI) `🚧 In Development`
+An adaptive AI interview intelligence platform that simulates realistic technical interviews — analyzing resumes and job descriptions via RAG, verifying resume claims, and delivering evidence-based, explainable feedback with a personalized learning roadmap.
+
+`Spring Boot` `Spring Security` `Spring AI / LangChain4j` `PostgreSQL` `Qdrant` `Gemini API`
+
+> 🔨 Actively in progress — building out the adaptive interview engine and knowledge vault.
 
 </td>
 </tr>

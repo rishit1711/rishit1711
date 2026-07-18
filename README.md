@@ -18,6 +18,27 @@
 
 <br/>
 
+<h3 align="center"><code>avi@github ~ $ ./contributions.sh</code></h3>
+<div align="center">
+  <img src="./contrib-heatmap.svg" width="850"/>
+  <br/>
+  <sub>🔄 auto-refreshes daily via GitHub Actions — real data, no third-party service</sub>
+</div>
+
+<br/>
+
+<h3 align="center"><code>rishit@github ~ $ whoami</code></h3>
+<div align="center">
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="380"/></td>
+    <td valign="top"><img src="./info-card.svg" width="470"/></td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
 ## 🧠 About Me
 
 - 🚀 Backend Developer focused on building **secure, scalable REST APIs** with Java and Spring Boot
@@ -128,14 +149,6 @@ An adaptive AI interview intelligence platform that simulates realistic technica
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/codeowl_1711?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishit1711&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 <br/>

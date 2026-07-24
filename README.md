@@ -23,7 +23,7 @@
 - 🔐 Comfortable working with authentication & authorization flows (Spring Security, JWT)
 - 📚 Actively sharpening my **Data Structures & Algorithms** skills through consistent practice
 - 🌱 Currently deepening my knowledge of distributed systems, caching, and API design patterns
-- ⚡ Fun fact: I like taking real-world platforms (Airbnb, ordering systems) and rebuilding their backend logic from scratch to really understand how they work
+
 
 <br/>
 

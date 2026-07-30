@@ -45,12 +45,17 @@ public class Rishit extends BackendDeveloper {
 }
 ```
 
-💻 Building AI-native  scalable backend systems with Java, Spring Boot, and clean architecture
-🔐 Strong foundation in Spring Security, JWT, and RBAC
-🤖 Exploring LLM applications using Spring AI and Retrieval-Augmented Generation (RAG)
-📄 Built end-to-end RAG pipelines with document parsing, chunking, embeddings, vector databases, and semantic retrieval
-📚 Solving DSA problems consistently to strengthen problem-solving skills
-🌱 Learning distributed systems, caching, API design, and microservice patterns
+💻 Building scalable, AI-native backend systems with Java, Spring Boot, and clean architecture
+
+🔐 Strong foundation in Spring Security, JWT, and role-based access control (RBAC)
+
+🤖 Developing LLM-powered applications using Spring AI and Retrieval-Augmented Generation (RAG)
+
+📄 Built end-to-end RAG pipelines involving document parsing, chunking, embeddings, vector databases, semantic retrieval, and prompt orchestration
+
+📚 Consistently solving Data Structures & Algorithms to strengthen problem-solving and interview readiness
+
+🌱 Currently exploring distributed systems, caching strategies, API design patterns, and microservices architecture
 
 <br/>
 

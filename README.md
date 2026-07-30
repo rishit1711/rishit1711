@@ -145,7 +145,7 @@ A prompt-to-frontend generation platform (Lovable-style) — describe what you w
 
 Adaptive AI interview intelligence platform simulating realistic technical interviews — analyzing resumes and JDs via RAG, verifying resume claims, and delivering explainable, evidence-based feedback with a personalized learning roadmap.
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-0A192F?style=flat-square"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
 > 🔨 Building the adaptive interview engine + knowledge vault
 

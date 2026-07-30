@@ -1,82 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%20There,%20I'm%20Rishit%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20DSA&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=280&section=header&text=RISHIT%20ROY&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Engineer%20%E2%80%A2%20Building%20AI-Powered%20Systems&descAlignY=52&descSize=20&fontFamily=Poppins" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Secure%2C+Scalable+Systems;Currently+Building+AI-Powered+Platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Designing+Secure%2C+Scalable+Backends;Exploring+LLMs+%2B+RAG+%2B+Spring+AI;Currently+Shipping%3A+PrepPilot+AI+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/rishit-roy-383b04314/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:hellorishit.roy@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/codeowl_1711/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://github.com/rishit1711">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=rishit1711&label=PROFILE%20VIEWS&color=00C9A7&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/rishit-roy-383b04314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:hellorishit.roy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/codeowl_1711/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 👨‍💻 About Me
+
+```java
+public class Rishit extends BackendDeveloper {
+
+    private String[] focus = {"Java", "Spring Boot", "System Design", "AI Integration"};
+    private String currentMission = "Building AI-native backend platforms";
+
+    @Override
+    public void dailyRoutine() {
+        solveDSA();
+        buildScalableAPIs();
+        breakDownRealWorldSystems();   // Airbnb, rate limiters, interview platforms...
+        keepLearning();
+    }
+}
+```
+
+- 🏗️ I design **clean, layered architectures** that scale and stay maintainable
+- 🔐 Deep comfort with **auth flows** — Spring Security, JWT, role-based access
+- 🧠 Actively building at the intersection of **backend engineering + LLMs**
+- 📚 Sharpening **DSA** through consistent, deliberate practice
+- 🌱 Currently going deeper on distributed systems, caching, and API design patterns
+- ⚡ Fun fact: I rebuild real-world platforms (Airbnb, interview systems) from scratch just to understand *how* they really work
 
 <br/>
 
-## 🧠 About Me
-
-- 🚀 Backend Developer focused on building **secure, scalable REST APIs** with Java and Spring Boot
-- 🏗️ I enjoy designing clean, **layered architectures** that are easy to maintain and extend
-- 🔐 Comfortable working with authentication & authorization flows (Spring Security, JWT)
-- 📚 Actively sharpening my **Data Structures & Algorithms** skills through consistent practice
-- 🌱 Currently deepening my knowledge of distributed systems, caching, and API design patterns
-
-
-<br/>
-
-## 🛠️ Tech Stack
+## 🧰 Tech Arsenal
 
 <div align="center">
 
-### Languages & Core
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+**Languages & Core**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" />
 
-### Frameworks & Libraries
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<br/><br/>
+
+**Frameworks & Libraries**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
-### Databases & Caching
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<br/><br/>
 
-### Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+**Data & Caching**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
+
+<br/><br/>
+
+**Tooling & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea&theme=dark" />
 
 </div>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏠 [Airbnb Backend Clone](https://github.com/rishit1711/airBnb---Backend)
+### 🏠 Airbnb Backend Clone
+**[→ View Repo](https://github.com/rishit1711/airBnb---Backend)**
+
 Scalable backend replicating Airbnb's core booking engine — inventory management, dynamic pricing logic, and secure user flows.
 
-`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL`
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚦 [Redis-Powered Rate Limiter](https://github.com/rishit1711/RateLimiterProject)
-A production-inspired rate limiter protecting APIs from traffic spikes and abuse — implements both **Fixed Window** and **Token Bucket** algorithms with Redis atomic counters and TTL-based expiration.
+### 🚦 Redis-Powered Rate Limiter
+**[→ View Repo](https://github.com/rishit1711/RateLimiterProject)**
 
-`Java` `Spring Boot` `Redis` `Docker` `System Design`
+Production-inspired rate limiter protecting APIs from spikes and abuse — **Fixed Window** and **Token Bucket** algorithms with Redis atomic counters and TTL-based expiration.
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/System_Design-000000?style=flat-square"/>
 
 </td>
 </tr>
@@ -84,28 +117,32 @@ A production-inspired rate limiter protecting APIs from traffic spikes and abuse
 
 <br/>
 
-### 🧪 Currently Building
+## 🧪 Currently Building
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ✨ [AI Workspace Platform](https://github.com/rishit1711/ai-workspace-platform) `🚧 In Development`
-A prompt-to-frontend generation platform (Lovable-style) — users describe what they want in plain language, and the platform generates a working **React** frontend for them. Powered by **Spring AI** on the backend to orchestrate LLM-driven code generation.
+### ✨ AI Workspace Platform
+**[→ View Repo](https://github.com/rishit1711/ai-workspace-platform)** &nbsp; ![status](https://img.shields.io/badge/status-in--development-orange?style=flat-square)
 
-`Java` `Spring Boot` `Spring AI` `React` `LLM Integration`
+A prompt-to-frontend generation platform (Lovable-style) — describe what you want in plain language, get a working **React** frontend. Powered by **Spring AI** to orchestrate LLM-driven code generation.
 
-> 🔨 Actively in progress — architecture and core generation pipeline underway.
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+> 🔨 Architecture + core generation pipeline underway
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 [PrepPilot AI](https://github.com/rishit1711/PrepPilotAI) `🚧 In Development`
-An adaptive AI interview intelligence platform that simulates realistic technical interviews — analyzing resumes and job descriptions via RAG, verifying resume claims, and delivering evidence-based, explainable feedback with a personalized learning roadmap.
+### 🎯 PrepPilot AI
+**[→ View Repo](https://github.com/rishit1711/PrepPilotAI)** &nbsp; ![status](https://img.shields.io/badge/status-in--development-orange?style=flat-square)
 
-`Spring Boot` `Spring Security` `Spring AI / LangChain4j` `PostgreSQL` `Qdrant` `Gemini API`
+Adaptive AI interview intelligence platform simulating realistic technical interviews — analyzing resumes and JDs via RAG, verifying resume claims, and delivering explainable, evidence-based feedback with a personalized learning roadmap.
 
-> 🔨 Actively in progress — building out the adaptive interview engine and knowledge vault.
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain4j-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+> 🔨 Building the adaptive interview engine + knowledge vault
 
 </td>
 </tr>
@@ -113,47 +150,55 @@ An adaptive AI interview intelligence platform that simulates realistic technica
 
 <br/>
 
-## 📊 GitHub Stats
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rishit1711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishit1711&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishit1711&theme=tokyonight&hide_border=true" />
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishit1711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00C9A7&icon_color=00C9A7"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishit1711&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9A7"/>
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/codeowl_1711?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
-</div>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishit1711&theme=tokyonight&hide_border=true&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
 
-<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishit1711&theme=tokyo-night&hide_border=true&color=00C9A7&line=00C9A7&point=ffffff"/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishit1711&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 <br/>
 
-## 🤝 Let's Connect
+## 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rishit1711&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
+</div>
+
+<br/>
+
+## 🧩 LeetCode Progress
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/codeowl_1711?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🤝 Let's Build Something
 
 <div align="center">
 
-I'm always up for a conversation about backend engineering, system design, or interesting problems to solve. Feel free to reach out!
+I'm always up for a conversation about backend engineering, system design, or applied AI. Reach out — I reply fast ⚡
 
 <a href="https://www.linkedin.com/in/rishit-roy-383b04314/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:hellorishit.roy@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/codeowl_1711/"><img src="https://img.shields.io/badge/Solve_With_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
+<br/><br/>
+
+<i>"Understand the system by rebuilding it."</i>
+
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishit1711&label=Profile%20Views&color=2C5364&style=flat" alt="Profile views"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=140&section=footer" width="100%"/>

@@ -45,12 +45,12 @@ public class Rishit extends BackendDeveloper {
 }
 ```
 
-- 🏗️ I design **clean, layered architectures** that scale and stay maintainable
-- 🔐 Deep comfort with **auth flows** — Spring Security, JWT, role-based access
-- 🧠 Actively building at the intersection of **backend engineering + LLMs**
-- 📚 Sharpening **DSA** through consistent, deliberate practice
-- 🌱 Currently going deeper on distributed systems, caching, and API design patterns
-- ⚡ Fun fact: I rebuild real-world platforms (Airbnb, interview systems) from scratch just to understand *how* they really work
+💻 Building AI-native  scalable backend systems with Java, Spring Boot, and clean architecture
+🔐 Strong foundation in Spring Security, JWT, and RBAC
+🤖 Exploring LLM applications using Spring AI and Retrieval-Augmented Generation (RAG)
+📄 Built end-to-end RAG pipelines with document parsing, chunking, embeddings, vector databases, and semantic retrieval
+📚 Solving DSA problems consistently to strengthen problem-solving skills
+🌱 Learning distributed systems, caching, API design, and microservice patterns
 
 <br/>
 

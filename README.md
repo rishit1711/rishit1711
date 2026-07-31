@@ -39,7 +39,7 @@ public class Rishit extends BackendDeveloper {
     public void dailyRoutine() {
         solveDSA();
         buildScalableAPIs();
-        breakDownRealWorldSystems();   // Airbnb, rate limiters, interview platforms...
+        breakDownRealWorldSystems();   
         keepLearning();
     }
 }

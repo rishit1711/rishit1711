@@ -141,7 +141,7 @@ A prompt-to-frontend generation platform (Lovable-style) — describe what you w
 <td width="50%" valign="top">
 
 ### 🎯 PrepPilot AI
-**[→ View Repo](https://github.com/rishit1711/PrepPilotAI)** &nbsp; ![status](https://img.shields.io/badge/status-in--development-orange?style=flat-square)
+**[→ View Repo](https://github.com/rishit1711/PrepPilot-AI)** &nbsp; ![status](https://img.shields.io/badge/status-in--development-orange?style=flat-square)
 
 Adaptive AI interview intelligence platform simulating realistic technical interviews — analyzing resumes and JDs via RAG, verifying resume claims, and delivering explainable, evidence-based feedback with a personalized learning roadmap.
 

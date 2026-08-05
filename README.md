@@ -167,7 +167,7 @@ Adaptive AI interview intelligence platform simulating realistic technical inter
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishit1711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00C9A7&icon_color=00C9A7"/>
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishit1711&layout=compact&theme=tokyonight&hide_border=true&title_color=00C9A7"/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rishit1711&theme=tokyonight&hide_border=true&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
+<img width="100%" src="https://streak-stats.demolab.com/?user=rishit1711&theme=tokyonight&hide_border=true&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishit1711&theme=tokyo-night&hide_border=true&color=00C9A7&line=00C9A7&point=ffffff"/>
 

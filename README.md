@@ -30,7 +30,7 @@
 ## 👨‍💻 About Me
 
 ```java
-public class Rishit extends BackendDeveloper {
+public class Rishit extends AIBackendDeveloper {
 
     private String[] focus = {"Java", "Spring Boot", "System Design", "AI Integration"};
     private String currentMission = "Building AI-native backend platforms";

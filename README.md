@@ -186,7 +186,7 @@ Adaptive AI interview intelligence platform simulating realistic technical inter
 ## 🧩 LeetCode Progress
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/codeowl_1711?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcard.jacoblin.cool/rishit_1711?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 <br/>

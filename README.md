@@ -63,40 +63,56 @@ public class Rishit extends AIBackendDeveloper {
 
 <div align="center">
 
-**Languages & Core**
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br/>
+<b>Java</b>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring"/><br/>
+<b>Spring Boot</b>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate"/><br/>
+<b>Hibernate</b>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/>
+<b>PostgreSQL</b>
+</td>
+<td align="center" width="20%">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/><br/>
+<b>Redis</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/>
+<b>MySQL</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven"/><br/>
+<b>Maven</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/><br/>
+<b>Docker</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/>
+<b>Git</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br/>
+<b>Postman</b>
+</td>
+</tr>
+</table>
+
 <br/>
-<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" />
 
-<br/><br/>
-
-**Frameworks & Libraries**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,hibernate,maven&theme=dark" />
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/RBAC-4B32C3?style=for-the-badge"/>
-
-<br/><br/>
-
-**AI / LLM Stack**
-<br/>
-<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-0A192F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-
-<br/><br/>
-
-**Data & Caching**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" />
-
-<br/><br/>
-
-**Tooling & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea&theme=dark" />
-<img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge"/>
+`Spring Security` `JWT` `RBAC` `Spring AI` `RAG` `Qdrant` `Gemini API` `IntelliJ IDEA`
 
 </div>
 
@@ -125,7 +141,7 @@ Scalable backend replicating Airbnb's core booking engine — inventory manageme
 
 Production-inspired rate limiter protecting APIs from spikes and abuse — **Fixed Window** and **Token Bucket** algorithms with Redis atomic counters and TTL-based expiration.
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/System_Design-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 
 </td>
 </tr>

@@ -71,9 +71,19 @@ public class Rishit extends AIBackendDeveloper {
 
 **Frameworks & Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,hibernate&theme=dark" />
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven&theme=dark" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/RBAC-4B32C3?style=for-the-badge"/>
+
+<br/><br/>
+
+**AI / LLM Stack**
+<br/>
 <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-0A192F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
 <br/><br/>
 
@@ -86,6 +96,7 @@ public class Rishit extends AIBackendDeveloper {
 **Tooling & Platforms**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea&theme=dark" />
+<img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge"/>
 
 </div>
 
@@ -131,9 +142,9 @@ Production-inspired rate limiter protecting APIs from spikes and abuse — **Fix
 ### ✨ AI Workspace Platform
 **[→ View Repo](https://github.com/rishit1711/ai-workspace-platform)** &nbsp; ![status](https://img.shields.io/badge/status-in--development-orange?style=flat-square)
 
-A prompt-to-frontend generation platform (Lovable-style) — describe what you want in plain language, get a working **React** frontend. Powered by **Spring AI** to orchestrate LLM-driven code generation.
+A prompt-to-frontend generation platform (Lovable-style) — describe what you want in plain language, get a working frontend. Powered by **Spring AI** to orchestrate LLM-driven code generation.
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 
 > 🔨 Architecture + core generation pipeline underway
 

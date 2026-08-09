@@ -65,32 +65,32 @@ public class Rishit extends AIBackendDeveloper {
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="16.6%">
 <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br/>
 <b>Java</b>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.6%">
 <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring"/><br/>
 <b>Spring Boot</b>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.6%">
 <img src="https://skillicons.dev/icons?i=hibernate" width="48" height="48" alt="Hibernate"/><br/>
 <b>Hibernate</b>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.6%">
 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/><br/>
 <b>PostgreSQL</b>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16.6%">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/>
+<b>MySQL</b>
+</td>
+<td align="center" width="16.6%">
 <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/><br/>
 <b>Redis</b>
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/><br/>
-<b>MySQL</b>
-</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven"/><br/>
 <b>Maven</b>
@@ -104,15 +104,33 @@ public class Rishit extends AIBackendDeveloper {
 <b>Git</b>
 </td>
 <td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/>
+<b>GitHub</b>
+</td>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/><br/>
 <b>Postman</b>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ IDEA"/><br/>
+<b>IntelliJ</b>
 </td>
 </tr>
 </table>
 
 <br/>
 
-`Spring Security` `JWT` `RBAC` `Spring AI` `RAG` `Qdrant` `Gemini API` `IntelliJ IDEA`
+**🔐 Security & Auth**
+<br/>
+`Spring Security` `JWT` `RBAC` `OAuth2`
+
+**🤖 AI / LLM Engineering**
+<br/>
+`Spring AI` `RAG Pipelines` `Qdrant` `Gemini API` `Prompt Orchestration` `Embeddings` `Semantic Search`
+
+**🏗️ Architecture & Concepts**
+<br/>
+`RESTful APIs` `Microservices` `Distributed Systems` `Caching Strategies` `API Design Patterns` `Data Structures & Algorithms` `OOP`
 
 </div>
 

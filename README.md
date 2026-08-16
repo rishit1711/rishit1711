@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=280&section=header&text=RISHIT%20ROY&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Engineer%20%E2%80%A2%20Building%20AI-Powered%20Systems&descAlignY=52&descSize=20&fontFamily=Poppins" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=280&section=header&text=RISHIT%20ROY&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=AI Backend%20Engineer%20%E2%80%A2%20Building%20AI-Powered%20Systems&descAlignY=52&descSize=20&fontFamily=Poppins" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=750&lines=Java+%7C+Spring+Boot+%7C+REST+APIs;Designing+Secure%2C+Scalable+Backends;Exploring+LLMs+%2B+RAG+%2B+Spring+AI;Currently+Shipping%3A+PrepPilot+AI+%F0%9F%9A%80" alt="Typing SVG" />
 

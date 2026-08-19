@@ -30,17 +30,36 @@
 ## 👨‍💻 About Me
 
 ```java
-public class Rishit extends AIBackendDeveloper {
+public final class Rishit extends AIBackendEngineer {
 
-    private String[] focus = {"Java", "Spring Boot", "System Design", "AI Integration"};
-    private String currentMission = "Building AI-native backend platforms";
+    private final String[] arsenal = {
+        "Java",
+        "Spring Boot",
+        "System Design",
+        "Distributed Systems",
+        "AI Engineering"
+    };
+
+    private final String mission =
+        "Building scalable backend systems for the AI era.";
 
     @Override
     public void dailyRoutine() {
-        solveDSA();
-        buildScalableAPIs();
-        breakDownRealWorldSystems();   
-        keepLearning();
+        solveDSA();                  // sharpen problem-solving
+        designSystems();             // think beyond CRUD
+        buildScalableAPIs();         // engineer for scale
+        integrateAI();               // make systems intelligent
+        breakThings();               // find the weak points
+        fixWhatIBroke();             // understand, don't patch
+        keepLearning();              // stay ahead
+    }
+
+    @Override
+    public void handleFailure(Exception e) {
+        debug();
+        understandRootCause();
+        fix();
+        shipAgain();
     }
 }
 ```

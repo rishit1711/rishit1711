@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/rishit-roy-383b04314/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:hellorishit.roy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://leetcode.com/u/rishit_1711/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+
 <a href="https://github.com/rishit1711"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://komarev.com/ghpvc/?username=rishit1711&label=Profile%20Views&color=00C9A7&style=for-the-badge" alt="Profile views"/>
 
@@ -171,7 +171,7 @@ Prompt-to-frontend generation platform: describe what you want in plain language
 
 <br/><br/>
 
-<img src="https://leetcard.jacoblin.cool/rishit_1711?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats"/>
+
 
 </div>
 
@@ -187,7 +187,7 @@ Open to conversations about backend engineering, system design, and applied AI.
 
 <a href="https://www.linkedin.com/in/rishit-roy-383b04314/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:hellorishit.roy@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://leetcode.com/u/rishit_1711/"><img src="https://img.shields.io/badge/Solve_With_Me-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+
 
 <br/><br/>
 
